@@ -1,5 +1,6 @@
 # Locall-frontend
 Locall Backend :- https://github.com/agrasthnaman/Locall-Backend
+
 Front-end for food delivery application created using reactjs along with redux and Material-UI
 
 ## Getting started
