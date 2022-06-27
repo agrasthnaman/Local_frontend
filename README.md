@@ -17,6 +17,7 @@ Register Page:-
 ![image](https://user-images.githubusercontent.com/64785911/176041699-1e4418fa-aa9c-48aa-9df8-0de6c67013fd.png)
 
 Form for Vendors to add their store:-
+![image](https://user-images.githubusercontent.com/64785911/176041963-7362a55b-c389-4d53-8ca3-72d8a10bac1c.png)
 ![image](https://user-images.githubusercontent.com/64785911/176041873-e2d4ab40-2e1d-4ede-807c-56edbce65e37.png)
 
 ## Getting started
